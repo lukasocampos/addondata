@@ -16,7 +16,7 @@ li = xbmcgui.ListItem('Movistar LigadeCampeones', iconImage='DefaultVideo.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 url = 'plugin://program.plexus/?mode=1&url=acestream://2aabe1d62c475873d6644fc9ff0397e53aa4356b&name=My+acestream+channel'
-li = xbmcgui.ListItem('Av5', iconImage='DefaultVideo.png')
+li = xbmcgui.ListItem('Av5 cambio', iconImage='DefaultVideo.png')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 url = 'plugin://program.plexus/?mode=1&url=acestream://2aabe1d62c475873d6644fc9ff0397e53aa4356b&name=My+acestream+channel'
