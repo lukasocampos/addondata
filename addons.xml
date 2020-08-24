@@ -167,16 +167,15 @@
   </extension>
 </addon>
 
-
-<addon id="repository.thegoodjoker" name="TheGoodJoker official Repo" version="1.1.0" provider-name="KodiMexico">
-	<extension point="xbmc.addon.repository" name="Kodi-Mexico official Repo">
-		<info compressed="false">https://raw.githubusercontent.com//lukasocampos/addondata/master/addons.xml</info>
+<addon id="repository.thegoodjoker" name="TheGoodJoker official Repo" version="1.1.0" provider-name="Joker">
+	<extension point="xbmc.addon.repository" name="TheGoodJoker official Repo">
+		<info compressed="false">https://raw.githubusercontent.com/lukasocampos/addondata/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/lukasocampos/addondata/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/lukasocampos/addondata/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>thegoodjoker official Repo</summary>
-   		<description lang="en">Instala los Addons .</description>
+   		<description lang="en">Instala los Addons.</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
